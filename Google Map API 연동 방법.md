@@ -13,7 +13,7 @@
 11. 사용자 인증 정보 Click
 12. 새 인증 정보를 만들기 위해 (API 및 서비스의 사용자 인증 정보) Click -> 사용자 인증 정보 만들기 Click -> API 키 선택
 13. API 키가 생성됨 복사해두자
-    - API key: AIzaSyBTAYXu0NZJgiBrRffeA5dVnx2LO8h5q7g
+    - API key: 
 14. API 키 1 Click
 15. 애플리케이션 제한사항에서 HTTP 리퍼러(웹사이트) 선택 -> 웹사이트 제한사항에서 항목 추가 후 원하는 URL 입력 후 완료 Click -> 저장
 

@@ -17,8 +17,8 @@
 
 7. 인증 정보 클릭 후 Client ID와 Client Secret을 따로 저장하자
 
-   - Client ID: 2bshw1250j
-   - Client Secret: 2WHe3BzgCGSn26YJY31j4SKHMdUF3NvwcdPdZr1j
+   - Client ID: xxxx
+   - Client Secret: xxxxx
 
 8. https://navermaps.github.io/maps.js.ncp/docs/tutorial-2-Getting-Started.html 들어가기
 
